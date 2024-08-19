@@ -42,19 +42,20 @@ The **Placement Drive Portal** is a comprehensive web application designed to st
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/Home-Page.jpg)
+![Home Page](Screenshots/Home-Page.jpg)
 
 ### Student Application Form
-![Student Application Form](screenshots/Student-Application-Form.jpg)
+![Student Application Form](Screenshots/Student-Application-Form.jpg)
 
 ### College Dashboard
-![College Dashboard](screenshots/College-Dashboard.jpg)
+![College Dashboard](Screenshots/College-Dashboard.jpg)
 
 ### HR Dashboard
-![HR Dashboard](screenshots/HR-Dashboard.png)
+![HR Dashboard](Screenshots/HR-Dashboard.png)
 
 ### Aptitude Test
-![Aptitude Test](screenshots/Aptitude-Take-Test.png)
+![Aptitude Test](Screenshots/Aptitude-Take-Test.png)
+
 
 
 ## How to Run the Project

@@ -1,0 +1,168 @@
+# Ignore Visual Studio temporary files, build results, and
+# Include VS Code debug specific settings
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono auto generated)
+mono_crash.*
+
+# Auto generated VS Code asset files
+.vscode/
+
+# Mono auto generated file
+mono_crash.*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Windows image file caches
+*.stackdump
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# SVN directories
+.svn
+
+# Stores user-specific Data Protection keys
+*.suo
+*.userosscache
+*.sln.docstates
+# User-specific files (Mono auto generated)
+mono_crash.*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Compiled object files
+*.o
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+*.out
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.pgd
+
+# Kernel Module Compile Results
+*.mod*
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# For Visual Studio Code
+.vscode/
+
+# Backup files
+*.bak
+
+# Compiled source files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+*.pyo
+*.pyd
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Office Temp Files
+~$*
+
+# Xamarin
+*.apk
+*.ap_*
+*.dex
+*.app
+*.ipa
+*.icns
+*.jar
+*.jlibrary
+*.mat
+
+# Mac files
+*.DS_Store
+*.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Swap files
+*.swp
+*.swo
+*.swn
+
+# Python virtual environment
+.venv/
